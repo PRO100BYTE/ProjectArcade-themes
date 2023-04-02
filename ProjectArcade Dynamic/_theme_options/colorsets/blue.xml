@@ -39,7 +39,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
    <view name="system">
       <image name="background" extra="static">
-         <path>./blue/background.jpg</path>
+         <path>./blue/background.png</path>
       </image>
 
 
@@ -51,7 +51,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
       </image>
 
       <image name="background-art" extra="static">
-         <path>./blue/background.jpg</path>
+         <path>./blue/background.png</path>
       </image>
    </view>
 
@@ -62,7 +62,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
       </image>
 
       <image name="background-art" extra="static">
-         <path>./blue/background.jpg</path>
+         <path>./blue/background.png</path>
       </image>
 
    </view>

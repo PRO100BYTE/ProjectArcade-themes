@@ -39,7 +39,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
    <view name="system">
       <image name="background" extra="static">
-         <path>./black/pa.png</path>
+         <path>./black/background.png</path>
       </image>
 
    </view>
