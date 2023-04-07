@@ -4,7 +4,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 <theme>
   <formatVersion>7</formatVersion>
   <variables lang="ru">
-    <theme.welcome>Добро пожаловать в ProjectArcade, основанный на</theme.welcome>
+    <theme.welcome>Добро пожаловать в</theme.welcome>
     <theme.start>Запуск</theme.start>
     <theme.mostplayed>Часто запускаемые:</theme.mostplayed>
     <theme.items>Элементы:</theme.items>
